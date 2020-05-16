@@ -1,6 +1,3 @@
-C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\MTGDeckBulderApp.dll.config
-C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\MTGDeckBulderApp.dll
-C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\MTGDeckBulderApp.pdb
 C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\roslyn\csc.exe
 C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\roslyn\csc.exe.config
 C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\roslyn\csc.rsp
@@ -71,5 +68,8 @@ C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderA
 C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\obj\Debug\MTGDeckBuilderApp.csprojAssemblyReference.cache
 C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\obj\Debug\MTGDeckBuilderApp.csproj.CopyComplete
-C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\obj\Debug\MTGDeckBulderApp.dll
-C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\obj\Debug\MTGDeckBulderApp.pdb
+C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\MTGDeckBuilderApp.dll.config
+C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\MTGDeckBuilderApp.dll
+C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\bin\MTGDeckBuilderApp.pdb
+C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\obj\Debug\MTGDeckBuilderApp.dll
+C:\Users\Joshua\source\repos\C#PracticeProjects\MTGDeckBuilderApp\MTGDeckBulderApp\MTGDeckBulderApp\obj\Debug\MTGDeckBuilderApp.pdb
